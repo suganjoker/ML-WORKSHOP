@@ -1,7 +1,7 @@
 ### SA-1 ASSIGNMENT
-### Developed By : Tirupathi Jayadeep
-### Register Number : 212223240169
-### Dept : AIML
+### Developed By : sugavarathan.l
+### Register Number : 212221220051
+### Dept : IT
 
 
 ### Objective 1 :
